@@ -33,17 +33,6 @@ The trained model is deployed using FastAPI and integrated with Elasticsearch an
 git clone https://github.com/ruebee08/IOT-AI-Powered-SIEM.git
 cd IOT-AI-Powered-SIEM
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#install dependencies for the api
+cd /api
+pip install -r requirements.txt
