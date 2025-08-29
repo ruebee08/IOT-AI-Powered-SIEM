@@ -46,7 +46,7 @@ pip install -r requirements.txt
    Download and install Kibana from the official page: [Kibana Downloads](https://www.elastic.co/downloads/kibana)
 
 3. **Start Elasticsearch and Kibana**  
-   Make sure both services are running before starting the API.
+   Make sure both services are running before starting the API.and dont forget to add your elasticsearch password into the api 
 
 4. **Build the API Docker image**  
 ```bash
