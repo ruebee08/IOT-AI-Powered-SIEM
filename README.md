@@ -54,9 +54,10 @@ cd IOT-AI-Powered-SIEM/api
 docker build -t iot-siem-api .
 docker run -d -p 8000:8000 --name iot-siem-api iot-siem-api
 ```
-5. **test**
- You can access the API endpoint at [http://localhost:8000](http://localhost:8000).  
- Sample log data for testing is available in the `data` folder.
+5. **Test**  
+    You can access the API endpoint at [http://localhost:8000](http://localhost:8000).  
+    Sample log data for testing is available in the `data` folder.
+
 
 
 
