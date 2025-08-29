@@ -3,7 +3,7 @@
 
 ![Alt text](images/siem_visualisation.png)
 
-Project Overview
+### Project Overview :
 
 This project is a proof of concept for an AI-powered Security Information and Event Management (SIEM) system designed to monitor IoT devices in real time. The system leverages machine learning to detect anomalies and potential attacks on IoT networks.
 
@@ -11,12 +11,12 @@ The AI model is trained on a dataset from the Canadian Institute for Cybersecuri
 
 The trained model is deployed using FastAPI and integrated with Elasticsearch and Kibana for real-time monitoring and visualization of IoT traffic.
 
-Features
+#### Features : 
 
-Real-time monitoring of IoT network traffic
+   - Real-time monitoring of IoT network traffic
 
-Detection of various types of attacks using machine learning
+   - Detection of various types of attacks using machine learning
 
-Interactive visualization and dashboards via Kibana
+   - Interactive visualization and dashboards via Kibana
 
-Easy integration with existing systems through REST API
+   - Easy integration with existing systems through REST API
