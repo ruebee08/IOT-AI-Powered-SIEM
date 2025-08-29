@@ -1,0 +1,397 @@
+{
+    "Src_Port": {
+        "median": 43102.0,
+        "mean": 37667.24473,
+        "std": 19329.336528751657
+    },
+    "Dst_Port": {
+        "median": 443.0,
+        "mean": 10870.25962,
+        "std": 18555.924394466867
+    },
+    "Protocol": {
+        "median": 6.0,
+        "mean": 10.28277,
+        "std": 5.544119271773298
+    },
+    "Flow_Duration": {
+        "median": 403722.0,
+        "mean": 34019290.10279,
+        "std": 48091025.479927264
+    },
+    "Total_Fwd_Packet": {
+        "median": 5.0,
+        "mean": 77.02257,
+        "std": 4334.1255980510505
+    },
+    "Total_Bwd_packets": {
+        "median": 2.0,
+        "mean": 9.15245,
+        "std": 147.1866504411016
+    },
+    "Total_Length_of_Fwd_Packet": {
+        "median": 196.0,
+        "mean": 7309.87245,
+        "std": 192428.5097333656
+    },
+    "Total_Length_of_Bwd_Packet": {
+        "median": 44.0,
+        "mean": 2730.7529,
+        "std": 207963.57014543514
+    },
+    "Fwd_Packet_Length_Max": {
+        "median": 69.0,
+        "mean": 208.59094,
+        "std": 847.7987967897502
+    },
+    "Fwd_Packet_Length_Min": {
+        "median": 0.0,
+        "mean": 33.31338,
+        "std": 100.14356055340998
+    },
+    "Fwd_Packet_Length_Mean": {
+        "median": 39.2,
+        "mean": 70.86544249280271,
+        "std": 168.41041578141233
+    },
+    "Fwd_Packet_Length_Std": {
+        "median": 0.0,
+        "mean": 58.40418446962757,
+        "std": 144.89080696544747
+    },
+    "Bwd_Packet_Length_Max": {
+        "median": 31.0,
+        "mean": 220.85231,
+        "std": 609.4643043075857
+    },
+    "Bwd_Packet_Length_Min": {
+        "median": 0.0,
+        "mean": 27.56324,
+        "std": 124.89250210498354
+    },
+    "Bwd_Packet_Length_Mean": {
+        "median": 20.0,
+        "mean": 71.3731371453223,
+        "std": 196.39801005011105
+    },
+    "Bwd_Packet_Length_Std": {
+        "median": 0.0,
+        "mean": 73.44563975805933,
+        "std": 206.18884933856688
+    },
+    "Flow_Bytes_s": {
+        "median": 465.4832540470586,
+        "mean": 133242.24486018243,
+        "std": 4573858.848052484
+    },
+    "Flow_Packets_s": {
+        "median": 18.00718315355357,
+        "mean": 7002.983705057387,
+        "std": 102750.63971871609
+    },
+    "Flow_IAT_Mean": {
+        "median": 103760.5,
+        "mean": 3861758.569677201,
+        "std": 8938152.511866221
+    },
+    "Flow_IAT_Std": {
+        "median": 62014.6878942087,
+        "mean": 3695244.715565551,
+        "std": 8907385.49282708
+    },
+    "Flow_IAT_Max": {
+        "median": 151958.5,
+        "mean": 10103985.14451,
+        "std": 19717936.82556716
+    },
+    "Flow_IAT_Min": {
+        "median": 14834.5,
+        "mean": 1539378.45658,
+        "std": 7348040.252654819
+    },
+    "Fwd_IAT_Total": {
+        "median": 275151.0,
+        "mean": 33346015.73769,
+        "std": 48107953.295983426
+    },
+    "Fwd_IAT_Mean": {
+        "median": 68843.0,
+        "mean": 5370842.447026182,
+        "std": 11539901.397416998
+    },
+    "Fwd_IAT_Std": {
+        "median": 78554.52904087049,
+        "mean": 3441879.906500328,
+        "std": 9598914.007807152
+    },
+    "Fwd_IAT_Max": {
+        "median": 148259.0,
+        "mean": 10035428.92521,
+        "std": 19835033.640616465
+    },
+    "Fwd_IAT_Min": {
+        "median": 657.0,
+        "mean": 2858034.77734,
+        "std": 9876940.455098696
+    },
+    "Bwd_IAT_Total": {
+        "median": 124720.0,
+        "mean": 14462888.70668,
+        "std": 33329637.97268735
+    },
+    "Bwd_IAT_Mean": {
+        "median": 34298.859322033866,
+        "mean": 4525762.266457866,
+        "std": 13541812.507156963
+    },
+    "Bwd_IAT_Std": {
+        "median": 0.0,
+        "mean": 1261004.3037237702,
+        "std": 5193829.960945105
+    },
+    "Bwd_IAT_Max": {
+        "median": 124337.0,
+        "mean": 6172399.20842,
+        "std": 16033132.666956492
+    },
+    "Bwd_IAT_Min": {
+        "median": 0.0,
+        "mean": 3508719.25525,
+        "std": 13128578.776428124
+    },
+    "Fwd_PSH_Flags": {
+        "median": 0.0,
+        "mean": 0.09254,
+        "std": 0.28978817810891194
+    },
+    "Bwd_PSH_Flags": {
+        "median": 0.0,
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Fwd_URG_Flags": {
+        "median": 0.0,
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Bwd_URG_Flags": {
+        "median": 0.0,
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Fwd_Header_Length": {
+        "median": 120.0,
+        "mean": 328.39928,
+        "std": 6539.302281978171
+    },
+    "Bwd_Header_Length": {
+        "median": 40.0,
+        "mean": 268.50236,
+        "std": 4740.442809916464
+    },
+    "Fwd_Packets_s": {
+        "median": 7.864330956402816,
+        "mean": 6447.535003736844,
+        "std": 95122.49284850199
+    },
+    "Bwd_Packets_s": {
+        "median": 7.990826531269809,
+        "mean": 542.8433306514418,
+        "std": 22634.67285739274
+    },
+    "Packet_Length_Min": {
+        "median": 0.0,
+        "mean": 27.34284,
+        "std": 80.23508084014401
+    },
+    "Packet_Length_Max": {
+        "median": 140.0,
+        "mean": 343.72824,
+        "std": 994.8157166069574
+    },
+    "Packet_Length_Mean": {
+        "median": 35.85714285714286,
+        "mean": 78.4865957346892,
+        "std": 145.20972108622226
+    },
+    "Packet_Length_Std": {
+        "median": 23.09401076758504,
+        "mean": 92.30732361863276,
+        "std": 196.3008343943279
+    },
+    "Packet_Length_Variance": {
+        "median": 533.3333333333334,
+        "mean": 47054.27423738268,
+        "std": 208957.01142823655
+    },
+    "FIN_Flag_Count": {
+        "median": 0.0,
+        "mean": 0.62189,
+        "std": 0.8854324750129934
+    },
+    "SYN_Flag_Count": {
+        "median": 0.0,
+        "mean": 1.01244,
+        "std": 1.770292796620336
+    },
+    "RST_Flag_Count": {
+        "median": 0.0,
+        "mean": 0.13052,
+        "std": 0.3708178861100001
+    },
+    "PSH_Flag_Count": {
+        "median": 0.0,
+        "mean": 4.18906,
+        "std": 60.44874603182565
+    },
+    "ACK_Flag_Count": {
+        "median": 1.0,
+        "mean": 16.74077,
+        "std": 296.39891503321905
+    },
+    "URG_Flag_Count": {
+        "median": 0.0,
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "CWR_Flag_Count": {
+        "median": 0.0,
+        "mean": 0.00348,
+        "std": 0.07634099737024039
+    },
+    "ECE_Flag_Count": {
+        "median": 0.0,
+        "mean": 0.00637,
+        "std": 0.11397172015687836
+    },
+    "Down_Up_Ratio": {
+        "median": 0.0,
+        "mean": 0.49813,
+        "std": 0.9733889140323706
+    },
+    "Average_Packet_Size": {
+        "median": 50.0,
+        "mean": 91.67409508789602,
+        "std": 175.19220159430066
+    },
+    "Fwd_Segment_Size_Avg": {
+        "median": 39.2,
+        "mean": 70.86544249280271,
+        "std": 168.41041578141233
+    },
+    "Bwd_Segment_Size_Avg": {
+        "median": 20.0,
+        "mean": 71.3731371453223,
+        "std": 196.39801005011105
+    },
+    "Fwd_Bytes_Bulk_Avg": {
+        "median": 0.0,
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Fwd_Packet_Bulk_Avg": {
+        "median": 0.0,
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Fwd_Bulk_Rate_Avg": {
+        "median": 0.0,
+        "mean": 0.0,
+        "std": 0.0
+    },
+    "Bwd_Bytes_Bulk_Avg": {
+        "median": 0.0,
+        "mean": 8959.22666,
+        "std": 280414.3680679897
+    },
+    "Bwd_Packet_Bulk_Avg": {
+        "median": 0.0,
+        "mean": 5.77351,
+        "std": 149.15242437422444
+    },
+    "Bwd_Bulk_Rate_Avg": {
+        "median": 0.0,
+        "mean": 11574.8235,
+        "std": 959309.8865365603
+    },
+    "Subflow_Fwd_Packets": {
+        "median": 0.0,
+        "mean": 28.46736,
+        "std": 2828.515017705806
+    },
+    "Subflow_Fwd_Bytes": {
+        "median": 0.0,
+        "mean": 398.38802,
+        "std": 42094.704078300485
+    },
+    "Subflow_Bwd_Packets": {
+        "median": 0.0,
+        "mean": 0.8972,
+        "std": 24.9322864645561
+    },
+    "Subflow_Bwd_Bytes": {
+        "median": 0.0,
+        "mean": 277.2121,
+        "std": 14191.572931669532
+    },
+    "FWD_Init_Win_Bytes": {
+        "median": 853.5,
+        "mean": 8811.14137,
+        "std": 14587.08646704973
+    },
+    "Bwd_Init_Win_Bytes": {
+        "median": 8.0,
+        "mean": 1916.53035,
+        "std": 8333.360027152758
+    },
+    "Fwd_Act_Data_Pkts": {
+        "median": 1.0,
+        "mean": 7.64479,
+        "std": 100.72812128392627
+    },
+    "Fwd_Seg_Size_Min": {
+        "median": 20.0,
+        "mean": 20.63524,
+        "std": 11.966539270943263
+    },
+    "Active_Mean": {
+        "median": 0.0,
+        "mean": 1026012.7402758772,
+        "std": 4093637.4464856475
+    },
+    "Active_Std": {
+        "median": 0.0,
+        "mean": 539564.4054074631,
+        "std": 3282669.4456737298
+    },
+    "Active_Max": {
+        "median": 0.0,
+        "mean": 1593101.20974,
+        "std": 6542800.341824214
+    },
+    "Active_Min": {
+        "median": 0.0,
+        "mean": 651521.40874,
+        "std": 2807118.333443894
+    },
+    "Idle_Mean": {
+        "median": 0.0,
+        "mean": 8924274.957852265,
+        "std": 18866113.358764995
+    },
+    "Idle_Std": {
+        "median": 0.0,
+        "mean": 784117.8091887255,
+        "std": 3991799.2844905127
+    },
+    "Idle_Max": {
+        "median": 0.0,
+        "mean": 9912666.60515,
+        "std": 19804670.476100147
+    },
+    "Idle_Min": {
+        "median": 0.0,
+        "mean": 8236208.31228,
+        "std": 18549891.58914618
+    }
+}
