@@ -20,5 +20,7 @@ The trained model is deployed using FastAPI and integrated with Elasticsearch an
    - Interactive visualization and dashboards via Kibana
 
    - Easy integration with existing systems through REST API
+
+     
 ### Architecture :
 ![Alt text](images/schema.png)
